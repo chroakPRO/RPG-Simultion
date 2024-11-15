@@ -1,6 +1,3 @@
-# Write a documentaiton how to compile and run the code
-
-# Write a documentaiton how to compile and run the code
 1. Open the command prompt
 2. Navigate to the folder where the code is located
 3. Type in the command `g++ main.cpp enemy.cpp -o main`
